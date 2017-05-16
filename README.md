@@ -12,6 +12,12 @@ This will use
  * Anaconda
  * Jupyter Notebook
  * MNIST Handwritting data
+
+# Libraries
+
+Tensorflow
+BQPlot
+Jupyter
  
 # References
 
