@@ -11,13 +11,23 @@ This will use
  * Tensor Flow
  * Anaconda
  * Jupyter Notebook
+ * Scikit-learn
+ * matplotlib
  * MNIST Handwritting data
-
-# Libraries
-
-Tensorflow
-BQPlot
-Jupyter
+ 
+# Quick Setup
+Create a python 3.5 environment with Anaconda, launch the environment and run 
+the following commands to setup the libraries. Once the commands complete, you 
+can run the jupyter notebook via clicking the arrow.
+```bash
+pip install tensorflow
+conda install jupyter
+conda install matplotlib
+conda install scikit-learn
+python -m ipykernel install --name tensorflow
+```
+Remember to set the kernel to tensorflow when running the jupyter notebook 
+(Doesn’t really matter but helps avoid errors)
  
 # References
 
