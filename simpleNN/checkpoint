@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\mals7h\\Documents\\TFDemo\\simpleNN\\mnistNN.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\mals7h\\Documents\\TFDemo\\simpleNN\\mnistNN.ckpt"
